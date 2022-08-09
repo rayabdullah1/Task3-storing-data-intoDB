@@ -6,6 +6,7 @@
 
 
 
+
 </pre>
 **-When the user enters a number(must be integer type) and then press 'send', the number will be stored in the database that I created named "mydb".**
 
